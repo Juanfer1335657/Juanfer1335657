@@ -1,7 +1,8 @@
 <div align="center">
 <h1 align="center">Hola, soy <a> Juan Fernando </a> 👋</h1>
 </div>
-## Sobre mi
+Sobre mi
+<br>
 - tengo 19 años
 <br>
 - Se lenguaje de javascript, css, html 5.
